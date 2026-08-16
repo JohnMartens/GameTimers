@@ -64,6 +64,7 @@ GameTimers.exe "C:\MijnData" "Supermarket Village"
 ### Aanleiding
 De aanleiding voor het maken van deze app was het spelen van het spel *Supermarket Village* via Google Play Games op een PC. Bij dit soort spellen moet je veel processen gelijktijdig in de gaten houden. Zodra een gewas klaar is of een product gemaakt is, wil je direct de volgende stap in gang zetten. Omdat een geschikte standaard app ontbrak, is GameTimers ontwikkeld om eenvoudig overzicht en controle te houden.
 
+
 ---
 
 ## English
@@ -131,3 +132,9 @@ The motivation for creating this app was playing the game *Supermarket Village* 
 ## License / Author
 Developed by **John**.
 Feel free to contribute, report issues, or suggest new features!
+
+<img width="1400" height="783" alt="afbeelding" src="https://github.com/user-attachments/assets/457ac9cb-3586-4e36-ac1b-86c41f5202bf" />
+<img width="1400" height="783" alt="Schermafbeelding 2026-08-16 091801" src="https://github.com/user-attachments/assets/5fc34c3d-3e38-4766-aca7-009fab6547f9" />
+
+<img width="1387" height="774" alt="Schermafbeelding 2026-08-16 095825" src="https://github.com/user-attachments/assets/d390d990-6669-479a-a11b-d620b91dd768" />
+
