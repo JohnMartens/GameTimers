@@ -133,6 +133,10 @@ The motivation for creating this app was playing the game *Supermarket Village* 
 Developed by **John**.
 Feel free to contribute, report issues, or suggest new features!
 
+---
+
+## Schermafbeeldingen / screenshots
+
 <img width="1400" height="783" alt="afbeelding" src="https://github.com/user-attachments/assets/457ac9cb-3586-4e36-ac1b-86c41f5202bf" />
 
 <img width="1387" height="774" alt="afbeelding" src="https://github.com/user-attachments/assets/d390d990-6669-479a-a11b-d620b91dd768" />
